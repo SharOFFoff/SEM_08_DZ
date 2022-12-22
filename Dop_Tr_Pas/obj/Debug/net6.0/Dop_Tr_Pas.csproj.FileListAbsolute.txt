@@ -1,0 +1,15 @@
+C:\Users\Sharov\Desktop\SEM_08_DZ\Dop_Tr_Pas\bin\Debug\net6.0\Dop_Tr_Pas.exe
+C:\Users\Sharov\Desktop\SEM_08_DZ\Dop_Tr_Pas\bin\Debug\net6.0\Dop_Tr_Pas.deps.json
+C:\Users\Sharov\Desktop\SEM_08_DZ\Dop_Tr_Pas\bin\Debug\net6.0\Dop_Tr_Pas.runtimeconfig.json
+C:\Users\Sharov\Desktop\SEM_08_DZ\Dop_Tr_Pas\bin\Debug\net6.0\Dop_Tr_Pas.dll
+C:\Users\Sharov\Desktop\SEM_08_DZ\Dop_Tr_Pas\bin\Debug\net6.0\Dop_Tr_Pas.pdb
+C:\Users\Sharov\Desktop\SEM_08_DZ\Dop_Tr_Pas\obj\Debug\net6.0\Dop_Tr_Pas.csproj.AssemblyReference.cache
+C:\Users\Sharov\Desktop\SEM_08_DZ\Dop_Tr_Pas\obj\Debug\net6.0\Dop_Tr_Pas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sharov\Desktop\SEM_08_DZ\Dop_Tr_Pas\obj\Debug\net6.0\Dop_Tr_Pas.AssemblyInfoInputs.cache
+C:\Users\Sharov\Desktop\SEM_08_DZ\Dop_Tr_Pas\obj\Debug\net6.0\Dop_Tr_Pas.AssemblyInfo.cs
+C:\Users\Sharov\Desktop\SEM_08_DZ\Dop_Tr_Pas\obj\Debug\net6.0\Dop_Tr_Pas.csproj.CoreCompileInputs.cache
+C:\Users\Sharov\Desktop\SEM_08_DZ\Dop_Tr_Pas\obj\Debug\net6.0\Dop_Tr_Pas.dll
+C:\Users\Sharov\Desktop\SEM_08_DZ\Dop_Tr_Pas\obj\Debug\net6.0\refint\Dop_Tr_Pas.dll
+C:\Users\Sharov\Desktop\SEM_08_DZ\Dop_Tr_Pas\obj\Debug\net6.0\Dop_Tr_Pas.pdb
+C:\Users\Sharov\Desktop\SEM_08_DZ\Dop_Tr_Pas\obj\Debug\net6.0\Dop_Tr_Pas.genruntimeconfig.cache
+C:\Users\Sharov\Desktop\SEM_08_DZ\Dop_Tr_Pas\obj\Debug\net6.0\ref\Dop_Tr_Pas.dll
